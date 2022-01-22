@@ -1,32 +1,65 @@
-## Tech Stack
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Kimyoosangg&fontSize=90&animation=fadeIn&fontAlignY=38)
 
+<h3 align="center">😊 Hi there 😊</h3>
+<p align="center">
+  I'm Yoosang Kim, a frontend developer
+</p>
+</br>
+</br>
 
-**Languages**  
- 
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/ES6+-424242?style=flat-square">
- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+<h3 align="center">✨ Tech Stack ✨</h3>
+<p align="center">  
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Typescript-23007A?&style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 
+  
+  <br>
+  <img src="https://img.shields.io/badge/React-232023?style=flat-square&logo=react&logoColor=%2361DAFB"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Hooks-424242?style=flat-square"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/styled components-db7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
+  
+  <br>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232f3e?&style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-4479a1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+</p>
 
+</br>
+</br>
+<h3 align="center">✏️ Social ✐</h3>
+<p align="center">  
+  <a href="https://u-sang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TechBlog-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <a href="mailto:yoo99485@gmail.com?Subject=Hello%20again" target="_top"><img src="https://img.shields.io/badge/Gmail-ea4335?&style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
 
-**Front-End**
+</p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Hooks-424242?style=flat-square"> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white">
+</br>
+</br>
+<h3 align="center">🎨 Code 🎨</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoosang&layout=compact&theme=dracula" />
+</p>
 
-**Back-End**  
+<h3 align="center">✨GitHub Stats✨</h3>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=kimyoosang&show_icons=true&theme=dracula")](https://github.com/anuraghazra/github-readme-stats" />
+</p>
 
-<img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white">
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=150&section=footer&rotate=-30)
 
+<!--
+**ImHyeLim1209/ImHyeLim1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Others**   
+Here are some ideas to get you started:
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-
-
-* * *
-## GitHub Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimyoosang&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-### Most Used Languages
-
-[![Top Langs](https://github-readme-stats-jekyung-min.vercel.app/api/top-langs/?username=kimyoosang&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- <img src="https://github-readme-stats.vercel.app/api?username=ImHyeLim1209&show_icons=true&theme=radical&layout=compact&hide=stars" />
+-->
