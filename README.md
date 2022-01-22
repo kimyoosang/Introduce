@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Kimyoosangg&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Kimyoosang&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 <h3 align="center">🙌 Hi there🙌</h3>
 <p align="center">
