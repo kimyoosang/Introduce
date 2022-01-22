@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Kimyoosangg&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-<h3 align="center">😊 Hi there 😊</h3>
+<h3 align="center">🙌 Hi there🙌</h3>
 <p align="center">
   I'm Yoosang Kim, a frontend developer
 </p>
@@ -27,7 +27,7 @@
 
 </br>
 </br>
-<h3 align="center">✏️ Social ✐</h3>
+<h3 align="center">👥 Social 👥</h3>
 <p align="center">  
   <a href="https://u-sang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TechBlog-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <a href="mailto:yoo99485@gmail.com?Subject=Hello%20again" target="_top"><img src="https://img.shields.io/badge/Gmail-ea4335?&style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
@@ -36,7 +36,7 @@
 
 </br>
 </br>
-<h3 align="center">🎨 Code 🎨</h3>
+<h3 align="center">🔨 Code 🔨</h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyoosang&layout=compact&theme=dracula" />
 </p>
@@ -44,25 +44,11 @@
 </br>
 </br>
 
-<h3 align="center">✨GitHub Stats✨</h3>
+<h3 align="center">🏅GitHub Stats🏅</h3>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=kimyoosang&show_icons=true&theme=dracula")](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=150&section=footer&rotate=-30)
 
-<!--
-**ImHyeLim1209/ImHyeLim1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- <img src="https://github-readme-stats.vercel.app/api?username=ImHyeLim1209&show_icons=true&theme=radical&layout=compact&hide=stars" />
--->
